@@ -16,21 +16,21 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
   <!-- About phone screen, AICP version name-->
-  <string name="mod_version">Версия AICP</string>
+  <string name="mod_version">Версія AICP</string>
   <!-- About phone screen, AICP unknown name-->
-  <string name="mod_version_default">Неизвестно</string>
+  <string name="mod_version_default">Невідомо</string>
   <string name="model_name">Модель</string>
   <!-- About phone screen, build date of ROM -->
-  <string name="build_date">Дата сборки</string>
+  <string name="build_date">Дата складання</string>
   <string name="build_date_default">2012-01-01-0000</string>
   <!--  About device screen, Hardware info -->
-  <string name="hardware_info">Информация о системе</string>
+  <string name="hardware_info">Информація про систему</string>
   <!--  About device Screen, hardware info, rear camera -->
-  <string name="device_rear_camera">Основная камера</string>
+  <string name="device_rear_camera">Головна камера</string>
   <!--  About device Screen, hardware info, front camera -->
-  <string name="device_front_camera">Фронтальная камера</string>
+  <string name="device_front_camera">Фронтальна камера</string>
   <!--  About device Screen, hardware info, screen res -->
-  <string name="device_screen_resolution">Разрешение экрана</string>
+  <string name="device_screen_resolution">Розширення екрану</string>
   <!--  About device Screen, hardware info, GPU info -->
   <string name="gpu_info">Видеоускоритель</string>
   <!-- About device screen, Cpu info. -->
